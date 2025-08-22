@@ -4,7 +4,7 @@
 
             <!-- Logo & Description -->
             <div class="md:col-span-1">
-                <h2 class="text-3xl font-bold mb-4">Netcraft</h2>
+                <h2 class="text-3xl font-bold mb-4">SoftNovaIT</h2>
                 <p class="text-gray-400">
                     A creative digital agency that helps brands grow by delivering modern solutions with design & strategy.
                 </p>
@@ -50,10 +50,14 @@
 
         </div>
 
-        <hr class="my-8 border-gray-700">
 
-        <p class="text-center text-gray-500 pb-6">
-            &copy; {{ date('Y') }} Netcraft. All rights reserved.
-        </p>
     </div>
+            <div class="bg-green-700">
+            <hr class="my-8 border-gray-700">
+
+            <p class="text-center text-white pb-6">
+                &copy; {{ date('Y') }} Netcraft. All rights reserved.
+            </p>
+
+        </div>
 </footer>
