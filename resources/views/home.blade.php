@@ -522,7 +522,7 @@
         .member-image {
             position: relative;
             overflow: hidden;
-            height: 300px;
+            height: 450px;
         }
 
         .member-image img {
@@ -678,7 +678,7 @@
                 <!-- Team Member 1 -->
                 <div class="team-member">
                     <div class="member-image">
-                        <img src="images/team_member_1.png">
+                        <img src="images/team_members/team_member_1.png">
                         <div class="social-links">
                             <a href="#"><i class="fab fa-facebook-f"></i></a>
                             <a href="#"><i class="fab fa-twitter"></i></a>
@@ -697,7 +697,7 @@
                 <!-- Team Member 2 -->
                 <div class="team-member">
                     <div class="member-image">
-                        <img src="images/team_member_2.png" alt="Emma Smith">
+                        <img src="images/team_members/team_member_2.png" alt="Emma Smith">
                         <div class="social-links">
                             <a href="#"><i class="fab fa-facebook-f"></i></a>
                             <a href="#"><i class="fab fa-twitter"></i></a>
@@ -716,7 +716,7 @@
                 <!-- Team Member 3 -->
                 <div class="team-member">
                     <div class="member-image">
-                        <img src="images/team_member_3.jpg" alt="Michael Brown">
+                        <img src="images/team_members/team_member_3.jpg" alt="Michael Brown">
                         <div class="social-links">
                             <a href="#"><i class="fab fa-facebook-f"></i></a>
                             <a href="#"><i class="fab fa-twitter"></i></a>
@@ -735,7 +735,7 @@
                 <!-- Team Member 4 -->
                 <div class="team-member">
                     <div class="member-image">
-                        <img src="images/team_member_4.png" alt="Sarah Johnson">
+                        <img src="images/team_members/team_member_4.png" alt="Sarah Johnson">
                         <div class="social-links">
                             <a href="#"><i class="fab fa-facebook-f"></i></a>
                             <a href="#"><i class="fab fa-twitter"></i></a>
@@ -754,7 +754,7 @@
                 <!-- Team Member 5 A-->
                 <div class="team-member">
                     <div class="member-image">
-                        <img src="images/team_member_5.jpg" alt="David Wilson">
+                        <img src="images/team_members/team_member_5.jpg" alt="David Wilson">
                         <div class="social-links">
                             <a href="#"><i class="fab fa-facebook-f"></i></a>
                             <a href="#"><i class="fab fa-twitter"></i></a>
@@ -772,7 +772,7 @@
                 <!-- Team Member 5 B-->
                 <div class="team-member">
                     <div class="member-image">
-                        <img src="images/team_member_9.jpg" alt="David Wilson">
+                        <img src="images/team_members/team_member_9.jpg" alt="David Wilson">
                         <div class="social-links">
                             <a href="#"><i class="fab fa-facebook-f"></i></a>
                             <a href="#"><i class="fab fa-twitter"></i></a>
@@ -792,7 +792,7 @@
                 <!-- Team Member 6 -->
                 <div class="team-member">
                     <div class="member-image">
-                        <img src="images/team_member_6.png" alt="David Wilson">
+                        <img src="images/team_members/team_member_6.png" alt="David Wilson">
                         <div class="social-links">
                             <a href="#"><i class="fab fa-facebook-f"></i></a>
                             <a href="#"><i class="fab fa-twitter"></i></a>
@@ -807,10 +807,10 @@
                         <span class="contact-info">ashraful.emad@softnovait.com</span>
                     </div>
                 </div>
-                <!-- Team Member 7 -->
+                <!-- Team Member 7 A-->
                 <div class="team-member">
                     <div class="member-image">
-                        <img src="images/team_member_7.png" alt="David Wilson">
+                        <img src="images/team_members/team_member_7.png" alt="David Wilson">
                         <div class="social-links">
                             <a href="#"><i class="fab fa-facebook-f"></i></a>
                             <a href="#"><i class="fab fa-twitter"></i></a>
@@ -825,10 +825,34 @@
                         <span class="contact-info">syed.mominul@softnovait.com</span>
                     </div>
                 </div>
+                
+                <!-- Team Member 7 B-->
+                <div class="team-member">
+                    <div class="member-image">
+                        <img src="images/team_members/team_member_11.jpg" alt="David Wilson">
+                        <div class="social-links">
+                            <a href="#"><i class="fab fa-facebook-f"></i></a>
+                            <a href="#"><i class="fab fa-twitter"></i></a>
+                            <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                            <a href="#"><i class="fab fa-instagram"></i></a>
+                        </div>
+                    </div>
+                    <div class="member-info">
+                        <h3>Fariha Nusrat Mumu</h3>
+                        <span class="position">Testing Engineer</span>
+                        <p>Performs manual and automated testing to ensure software quality and reliability. Skilled in test planning, bug tracking, and using tools like Selenium, JIRA, and Postman for efficient QA processes.</p>
+                        <span class="contact-info">mumu@softnovait.com</span>
+                    </div>
+                </div>
+               
+                
+                
+                
+                
                 <!-- Team Member 8 -->
                 <div class="team-member">
                     <div class="member-image">
-                        <img src="images/team_member_10.jpg" alt="David Wilson">
+                        <img src="images/team_members/team_member_10.jpg" alt="David Wilson">
                         <div class="social-links">
                             <a href="#"><i class="fab fa-facebook-f"></i></a>
                             <a href="#"><i class="fab fa-twitter"></i></a>
@@ -846,7 +870,7 @@
                 {{-- Team Member 10 --}}
                 <div class="team-member">
                     <div class="member-image">
-                        <img src="images/team_member_8.png" alt="David Wilson">
+                        <img src="images/team_members/team_member_8.png" alt="David Wilson">
                         <div class="social-links">
                             <a href="#"><i class="fab fa-facebook-f"></i></a>
                             <a href="#"><i class="fab fa-twitter"></i></a>
