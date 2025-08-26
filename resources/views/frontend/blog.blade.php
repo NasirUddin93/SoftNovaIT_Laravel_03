@@ -20,7 +20,7 @@
 
       <!-- Blog Post 1 -->
       <div class="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-2xl transition">
-        <img src="https://via.placeholder.com/400x250" alt="Blog 1" class="w-full h-56 object-cover">
+        <img src="images/blog/blog1.jpg" alt="Blog 1" class="w-full h-56 object-cover">
         <div class="p-6">
           <h3 class="text-xl font-semibold mb-2">Top 10 SEO Strategies for 2025</h3>
           <p class="text-gray-600 mb-4">

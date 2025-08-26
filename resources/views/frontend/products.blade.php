@@ -19,9 +19,9 @@
 
       <!-- Product Card Example -->
       <div class="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-2xl transition">
-        <img src="https://via.placeholder.com/300x300" alt="Product 1" class="w-full h-64 object-cover">
+        <img src="images/web_services/web_service_01.jpg" alt="Product 1" class="w-full h-64 object-cover">
         <div class="p-6 space-y-4">
-          <h3 class="text-xl font-semibold">Product Name 1</h3>
+          <h3 class="text-xl font-semibold">E-Learning Platform</h3>
           <p class="text-gray-500 text-sm">High-quality product designed to meet your expectations.</p>
           <div class="flex justify-between items-center">
             <span class="text-green-500 font-bold text-lg">৳500</span>
@@ -35,9 +35,9 @@
 
       <!-- Repeat for other products -->
       <div class="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-2xl transition">
-        <img src="https://via.placeholder.com/300x300" alt="Product 2" class="w-full h-64 object-cover">
+        <img src="images/web_services/web_service_02.jpg" alt="Product 2" class="w-full h-64 object-cover">
         <div class="p-6 space-y-4">
-          <h3 class="text-xl font-semibold">Product Name 2</h3>
+          <h3 class="text-xl font-semibold">House Management</h3>
           <p class="text-gray-500 text-sm">Perfect solution for your business or personal needs.</p>
           <div class="flex justify-between items-center">
             <span class="text-green-500 font-bold text-lg">৳750</span>
@@ -50,9 +50,9 @@
       </div>
 
       <div class="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-2xl transition">
-        <img src="https://via.placeholder.com/300x300" alt="Product 3" class="w-full h-64 object-cover">
+        <img src="images/web_services/web_service_03.jpg" alt="Product 3" class="w-full h-64 object-cover">
         <div class="p-6 space-y-4">
-          <h3 class="text-xl font-semibold">Product Name 3</h3>
+          <h3 class="text-xl font-semibold">Hospital Management System</h3>
           <p class="text-gray-500 text-sm">Top-quality product for all your business solutions.</p>
           <div class="flex justify-between items-center">
             <span class="text-green-500 font-bold text-lg">৳1200</span>
@@ -65,9 +65,9 @@
       </div>
 
       <div class="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-2xl transition">
-        <img src="https://via.placeholder.com/300x300" alt="Product 4" class="w-full h-64 object-cover">
+        <img src="images/web_services/web_service_04.jpg" alt="Product 4" class="w-full h-64 object-cover">
         <div class="p-6 space-y-4">
-          <h3 class="text-xl font-semibold">Product Name 4</h3>
+          <h3 class="text-xl font-semibold">Personal Blog</h3>
           <p class="text-gray-500 text-sm">Reliable product built with the latest technology.</p>
           <div class="flex justify-between items-center">
             <span class="text-green-500 font-bold text-lg">৳950</span>

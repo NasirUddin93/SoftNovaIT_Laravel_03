@@ -17,7 +17,62 @@
     <!-- Team Grid -->
     <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8">
 
-      <!-- Team Member -->
+      <!-- Team Member 1-->
+      <div class="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-2xl transition">
+        <img src="images/team_members/team_member_1.png"  alt="Team Member" class="w-full h-64 object-cover">
+        <div class="p-6 text-center">
+          <h3 class="text-xl font-semibold mb-1">Aminesh Kumar Paul</h3>
+          <p class="text-gray-500 mb-3">Executive Member</p>
+          <div class="flex justify-center space-x-4">
+            <a href="#" class="text-gray-400 hover:text-green-500"><i class="fab fa-facebook-f"></i></a>
+            <a href="#" class="text-gray-400 hover:text-green-500"><i class="fab fa-linkedin-in"></i></a>
+            <a href="#" class="text-gray-400 hover:text-green-500"><i class="fab fa-twitter"></i></a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Team Member 2-->
+      <div class="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-2xl transition">
+        <img src="images/team_members/team_member_2.jpg" alt="Team Member" class="w-full h-64 object-cover">
+        <div class="p-6 text-center">
+          <h3 class="text-xl font-semibold mb-1">Anwar Hossain Hiron</h3>
+          <p class="text-gray-500 mb-3">Network and Server Engineer</p>
+          <div class="flex justify-center space-x-4">
+            <a href="#" class="text-gray-400 hover:text-green-500"><i class="fab fa-facebook-f"></i></a>
+            <a href="#" class="text-gray-400 hover:text-green-500"><i class="fab fa-linkedin-in"></i></a>
+            <a href="#" class="text-gray-400 hover:text-green-500"><i class="fab fa-twitter"></i></a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Team Member 3-->
+      <div class="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-2xl transition">
+        <img src="images/team_members/team_member_3.jpg" alt="Team Member" class="w-full h-64 object-cover">
+        <div class="p-6 text-center">
+          <h3 class="text-xl font-semibold mb-1">MD TAREK AHAMED</h3>
+          <p class="text-gray-500 mb-3">Network and Server Engineer</p>
+          <div class="flex justify-center space-x-4">
+            <a href="#" class="text-gray-400 hover:text-green-500"><i class="fab fa-facebook-f"></i></a>
+            <a href="#" class="text-gray-400 hover:text-green-500"><i class="fab fa-linkedin-in"></i></a>
+            <a href="#" class="text-gray-400 hover:text-green-500"><i class="fab fa-twitter"></i></a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Team Member 4-->
+      <div class="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-2xl transition">
+        <img src="images/team_members/team_member_4.png" alt="Team Member" class="w-full h-64 object-cover">
+        <div class="p-6 text-center">
+          <h3 class="text-xl font-semibold mb-1">Md Azizul Islam</h3>
+          <p class="text-gray-500 mb-3">Database Administrator</p>
+          <div class="flex justify-center space-x-4">
+            <a href="#" class="text-gray-400 hover:text-green-500"><i class="fab fa-facebook-f"></i></a>
+            <a href="#" class="text-gray-400 hover:text-green-500"><i class="fab fa-linkedin-in"></i></a>
+            <a href="#" class="text-gray-400 hover:text-green-500"><i class="fab fa-twitter"></i></a>
+          </div>
+        </div>
+      </div>
+      <!-- Team Member 5-->
       <div class="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-2xl transition">
         <img src="images/team_members/team_member_5.jpg" alt="Team Member" class="w-full h-64 object-cover">
         <div class="p-6 text-center">
@@ -31,7 +86,35 @@
         </div>
       </div>
 
-      <!-- Team Member -->
+      <!-- Team Member 6-->
+      <div class="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-2xl transition">
+        <img src="images/team_members/team_member_9.jpg" alt="Team Member" class="w-full h-64 object-cover">
+        <div class="p-6 text-center">
+          <h3 class="text-xl font-semibold mb-1">Rownak Ahmed Oyshi</h3>
+          <p class="text-gray-500 mb-3">QA Engineer</p>
+          <div class="flex justify-center space-x-4">
+            <a href="#" class="text-gray-400 hover:text-green-500"><i class="fab fa-facebook-f"></i></a>
+            <a href="#" class="text-gray-400 hover:text-green-500"><i class="fab fa-linkedin-in"></i></a>
+            <a href="#" class="text-gray-400 hover:text-green-500"><i class="fab fa-twitter"></i></a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Team Member 7-->
+      <div class="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-2xl transition">
+        <img src="images/team_members/team_member_6.png" alt="Team Member" class="w-full h-64 object-cover">
+        <div class="p-6 text-center">
+          <h3 class="text-xl font-semibold mb-1">Ashraful Islam Emad</h3>
+          <p class="text-gray-500 mb-3">Senior Web Developer</p>
+          <div class="flex justify-center space-x-4">
+            <a href="#" class="text-gray-400 hover:text-green-500"><i class="fab fa-facebook-f"></i></a>
+            <a href="#" class="text-gray-400 hover:text-green-500"><i class="fab fa-linkedin-in"></i></a>
+            <a href="#" class="text-gray-400 hover:text-green-500"><i class="fab fa-twitter"></i></a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Team Member 8-->
       <div class="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-2xl transition">
         <img src="images/team_members/team_member_7.png" alt="Team Member" class="w-full h-64 object-cover">
         <div class="p-6 text-center">
@@ -45,12 +128,38 @@
         </div>
       </div>
 
-      <!-- Team Member -->
+      <!-- Team Member 9-->
       <div class="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-2xl transition">
-        <img src="https://via.placeholder.com/300x300" alt="Team Member" class="w-full h-64 object-cover">
+        <img src="images/team_members/team_member_11.jpg" alt="Team Member" class="w-full h-64 object-cover">
         <div class="p-6 text-center">
-          <h3 class="text-xl font-semibold mb-1">Md. Shaimum Hasan Sagor</h3>
-          <p class="text-gray-500 mb-3">Digital Marketing Expert</p>
+          <h3 class="text-xl font-semibold mb-1">Fariha Nusrat Mumu</h3>
+          <p class="text-gray-500 mb-3">Testing Engineer</p>
+          <div class="flex justify-center space-x-4">
+            <a href="#" class="text-gray-400 hover:text-green-500"><i class="fab fa-facebook-f"></i></a>
+            <a href="#" class="text-gray-400 hover:text-green-500"><i class="fab fa-linkedin-in"></i></a>
+            <a href="#" class="text-gray-400 hover:text-green-500"><i class="fab fa-twitter"></i></a>
+          </div>
+        </div>
+      </div>
+      <!-- Team Member 10-->
+      <div class="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-2xl transition">
+        <img src="images/team_members/team_member_10.jpg" alt="Team Member" class="w-full h-64 object-cover">
+        <div class="p-6 text-center">
+          <h3 class="text-xl font-semibold mb-1">Saimum Hossain Sagor</h3>
+          <p class="text-gray-500 mb-3">Technical Support</p>
+          <div class="flex justify-center space-x-4">
+            <a href="#" class="text-gray-400 hover:text-green-500"><i class="fab fa-facebook-f"></i></a>
+            <a href="#" class="text-gray-400 hover:text-green-500"><i class="fab fa-linkedin-in"></i></a>
+            <a href="#" class="text-gray-400 hover:text-green-500"><i class="fab fa-twitter"></i></a>
+          </div>
+        </div>
+      </div>
+      <!-- Team Member 11-->
+      <div class="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-2xl transition">
+        <img src="images/team_members/team_member_8.png" alt="Team Member" class="w-full h-64 object-cover">
+        <div class="p-6 text-center">
+          <h3 class="text-xl font-semibold mb-1">Joy Krishna Mondal</h3>
+          <p class="text-gray-500 mb-3">Marketing Executive</p>
           <div class="flex justify-center space-x-4">
             <a href="#" class="text-gray-400 hover:text-green-500"><i class="fab fa-facebook-f"></i></a>
             <a href="#" class="text-gray-400 hover:text-green-500"><i class="fab fa-linkedin-in"></i></a>
@@ -59,23 +168,12 @@
         </div>
       </div>
 
-      <!-- Team Member -->
-      <div class="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-2xl transition">
-        <img src="https://via.placeholder.com/300x300" alt="Team Member" class="w-full h-64 object-cover">
-        <div class="p-6 text-center">
-          <h3 class="text-xl font-semibold mb-1">Jane Doe</h3>
-          <p class="text-gray-500 mb-3">UI/UX Designer</p>
-          <div class="flex justify-center space-x-4">
-            <a href="#" class="text-gray-400 hover:text-green-500"><i class="fab fa-facebook-f"></i></a>
-            <a href="#" class="text-gray-400 hover:text-green-500"><i class="fab fa-linkedin-in"></i></a>
-            <a href="#" class="text-gray-400 hover:text-green-500"><i class="fab fa-twitter"></i></a>
-          </div>
-        </div>
-      </div>
+
+
 
     </div>
   </div>
 </section>
 
 
-@endsection  
+@endsection

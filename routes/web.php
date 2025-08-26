@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\BlogController;
 
 /*
 |--------------------------------------------------------------------------
@@ -38,13 +39,15 @@ Route::view('/team', 'frontend.team')->name('team');
 Route::view('/digital_marketing', 'frontend.digital_marketing')->name('digital_marketing');
 Route::view('/seo_optimization', 'frontend.seo_optimization')->name('seo_optimization');
 Route::view('/software_service', 'frontend.software_service')->name('software_service');
-Route::view('/blog', 'frontend.blog')->name('blog');
+// Route::view('/blog', 'frontend.blog')->name('main_blog');
 Route::view('/latest_posts', 'frontend.latest_posts')->name('latest_posts');
 Route::view('/single_posts', 'frontend.single_posts')->name('single_posts');
 Route::view('/shop', 'frontend.shop')->name('shop');
 Route::view('/cart', 'frontend.cart')->name('cart');
 Route::view('/contact', 'frontend.contact')->name('contact');
 Route::view('/products', 'frontend.products')->name('products');
+Route::get('/blog', [BlogController::class, 'index'])->name('blog.index');
+
 // Route::view('/home2', 'home2')->name('home2');
 
 

@@ -71,7 +71,7 @@
 
         <!-- Blog -->
         <li class="relative group">
-          <a href="{{route('blog')}}" class="font-semibold text-white hover:text-green-500 px-4 py-2 transition-colors flex items-center">
+          <a href="{{route('blog.index')}}" class="font-semibold text-white hover:text-green-500 px-4 py-2 transition-colors flex items-center">
             Blog
             <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>

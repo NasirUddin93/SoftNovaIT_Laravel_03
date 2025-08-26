@@ -26,7 +26,7 @@
                 <h3 class="text-xl font-semibold mb-4">Company</h3>
                 <ul class="space-y-2">
                     <li><a href="{{route('about_us')}}" class="text-gray-400 hover:text-green-500">About Us</a></li>
-                    <li><a href="{{route('blog')}}" class="text-gray-400 hover:text-green-500">Blog</a></li>
+                    <li><a href="{{route('blog.index')}}" class="text-gray-400 hover:text-green-500">Blog</a></li>
                     <li><a href="#" class="text-gray-400 hover:text-green-500">Portfolio</a></li>
                     <li><a href="{{route('contact')}}" class="text-gray-400 hover:text-green-500">Contact</a></li>
                 </ul>

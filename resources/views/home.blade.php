@@ -697,7 +697,7 @@
                 <!-- Team Member 2 -->
                 <div class="team-member">
                     <div class="member-image">
-                        <img src="images/team_members/team_member_2.png" alt="Emma Smith">
+                        <img src="images/team_members/team_member_2.jpg" alt="Emma Smith">
                         <div class="social-links">
                             <a href="#"><i class="fab fa-facebook-f"></i></a>
                             <a href="#"><i class="fab fa-twitter"></i></a>
@@ -825,7 +825,7 @@
                         <span class="contact-info">syed.mominul@softnovait.com</span>
                     </div>
                 </div>
-                
+
                 <!-- Team Member 7 B-->
                 <div class="team-member">
                     <div class="member-image">
@@ -844,11 +844,11 @@
                         <span class="contact-info">mumu@softnovait.com</span>
                     </div>
                 </div>
-               
-                
-                
-                
-                
+
+
+
+
+
                 <!-- Team Member 8 -->
                 <div class="team-member">
                     <div class="member-image">
@@ -948,7 +948,7 @@
                         </div>
                         <div>
                             <h4 class="text-netcraft-dark font-semibold text-lg">Call Us</h4>
-                            <p class="text-netcraft-secondary">+1 (234) 567-8900</p>
+                            <p class="text-netcraft-secondary">+880 1707568468</p>
                         </div>
                     </div>
 
@@ -958,7 +958,7 @@
                         </div>
                         <div>
                             <h4 class="text-netcraft-dark font-semibold text-lg">Email Us</h4>
-                            <p class="text-netcraft-secondary">support@netcraft.com</p>
+                            <p class="text-netcraft-secondary">support@softnovait.com</p>
                         </div>
                     </div>
 
@@ -1090,7 +1090,7 @@
                         </div>
                         <div>
                             <h4 class="text-white font-semibold text-lg mb-1">Our Location</h4>
-                            <p class="text-white">123 Digital Avenue, San Francisco, CA 94107</p>
+                            <p class="text-white">House:32(3rd floor), Garib-E-Newaj Avenue road ,Sector:11,Uttara,Dhaka-1230.</p>
                         </div>
                     </div>
 
@@ -1100,8 +1100,9 @@
                         </div>
                         <div>
                             <h4 class="text-white font-semibold text-lg mb-1">Phone Number</h4>
-                            <p class="text-white">+1 (555) 123-4567</p>
-                            <p class="text-white ">+1 (555) 987-6543</p>
+                            <p class="text-white">+880 1707568468</p>
+                            <p class="text-white ">+880 1310-940121</p>
+                            <p class="text-white ">+880 1648-901298</p>
                         </div>
                     </div>
 
@@ -1111,8 +1112,8 @@
                         </div>
                         <div>
                             <h4 class="text-white font-semibold text-lg mb-1">Email Address</h4>
-                            <p class="text-white">info@netcraft.com</p>
-                            <p class="text-white">support@netcraft.com</p>
+                            <p class="text-white">info@softnovait.com</p>
+                            <p class="text-white">support@softnovait.com</p>
                         </div>
                     </div>
                 </div>

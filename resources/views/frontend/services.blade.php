@@ -160,7 +160,7 @@
                             <i class="fas fa-star"></i>
                         </div>
                     </div>
-                    <p class="text-gray-600 mb-6">"Netcraft's SEO strategies transformed our online presence. Our organic traffic has increased by over 200% in just 6 months."</p>
+                    <p class="text-gray-600 mb-6">"SoftNovaIT's SEO strategies transformed our online presence. Our organic traffic has increased by over 200% in just 6 months."</p>
                     <div class="flex items-center">
                         <img src="https://via.placeholder.com/50x50" alt="Client" class="w-12 h-12 rounded-full mr-4">
                         <div>
@@ -181,7 +181,7 @@
                             <i class="fas fa-star"></i>
                         </div>
                     </div>
-                    <p class="text-gray-600 mb-6">"The social media campaign designed by Netcraft generated over 5,000 qualified leads for our new product launch."</p>
+                    <p class="text-gray-600 mb-6">"The social media campaign designed by SoftNovaIT generated over 5,000 qualified leads for our new product launch."</p>
                     <div class="flex items-center">
                         <img src="https://via.placeholder.com/50x50" alt="Client" class="w-12 h-12 rounded-full mr-4">
                         <div>
