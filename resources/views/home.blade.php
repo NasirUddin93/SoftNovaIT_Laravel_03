@@ -1121,16 +1121,16 @@
                 <div class="mt-12">
                     <h4 class="text-netcraft-dark font-semibold text-lg mb-5">Follow Us</h4>
                     <div class="flex space-x-4">
-                        <a href="#" class="w-10 h-10 rounded-full bg-gray-100 flex items-center justify-center text-netcraft-primary hover:bg-netcraft-primary hover:text-white transition-colors duration-300">
+                        <a href="https://www.facebook.com/SoftNovaIT/" class="w-10 h-10 rounded-full bg-gray-100 flex items-center justify-center text-netcraft-primary hover:bg-netcraft-primary hover:text-white transition-colors duration-300">
                             <i class="fab fa-facebook-f"></i>
                         </a>
-                        <a href="#" class="w-10 h-10 rounded-full bg-gray-100 flex items-center justify-center text-netcraft-primary hover:bg-netcraft-primary hover:text-white transition-colors duration-300">
+                        <a href="https://x.com/SoftNovaIT" class="w-10 h-10 rounded-full bg-gray-100 flex items-center justify-center text-netcraft-primary hover:bg-netcraft-primary hover:text-white transition-colors duration-300">
                             <i class="fab fa-twitter"></i>
                         </a>
-                        <a href="#" class="w-10 h-10 rounded-full bg-gray-100 flex items-center justify-center text-netcraft-primary hover:bg-netcraft-primary hover:text-white transition-colors duration-300">
+                        <a href="https://www.instagram.com/softnovait/" class="w-10 h-10 rounded-full bg-gray-100 flex items-center justify-center text-netcraft-primary hover:bg-netcraft-primary hover:text-white transition-colors duration-300">
                             <i class="fab fa-instagram"></i>
                         </a>
-                        <a href="#" class="w-10 h-10 rounded-full bg-gray-100 flex items-center justify-center text-netcraft-primary hover:bg-netcraft-primary hover:text-white transition-colors duration-300">
+                        <a href="https://www.linkedin.com/in/softnovait/" class="w-10 h-10 rounded-full bg-gray-100 flex items-center justify-center text-netcraft-primary hover:bg-netcraft-primary hover:text-white transition-colors duration-300">
                             <i class="fab fa-linkedin-in"></i>
                         </a>
                     </div>

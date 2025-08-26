@@ -14,9 +14,9 @@
             <div>
                 <h3 class="text-xl font-semibold mb-4">Services</h3>
                 <ul class="space-y-2">
-                    <li><a href="#" class="text-gray-400 hover:text-green-500">Web Development</a></li>
-                    <li><a href="#" class="text-gray-400 hover:text-green-500">SEO Optimization</a></li>
-                    <li><a href="#" class="text-gray-400 hover:text-green-500">Digital Marketing</a></li>
+                    <li><a href="{{ route('web_service') }}" class="text-gray-400 hover:text-green-500">Web Development</a></li>
+                    <li><a href="{{ route('seo_optimization') }}" class="text-gray-400 hover:text-green-500">SEO Optimization</a></li>
+                    <li><a href="{{ route('digital_marketing') }}" class="text-gray-400 hover:text-green-500">Digital Marketing</a></li>
                     <li><a href="#" class="text-gray-400 hover:text-green-500">UI/UX Design</a></li>
                 </ul>
             </div>
@@ -25,10 +25,10 @@
             <div>
                 <h3 class="text-xl font-semibold mb-4">Company</h3>
                 <ul class="space-y-2">
-                    <li><a href="#" class="text-gray-400 hover:text-green-500">About Us</a></li>
-                    <li><a href="#" class="text-gray-400 hover:text-green-500">Blog</a></li>
+                    <li><a href="{{route('about_us')}}" class="text-gray-400 hover:text-green-500">About Us</a></li>
+                    <li><a href="{{route('blog')}}" class="text-gray-400 hover:text-green-500">Blog</a></li>
                     <li><a href="#" class="text-gray-400 hover:text-green-500">Portfolio</a></li>
-                    <li><a href="#" class="text-gray-400 hover:text-green-500">Contact</a></li>
+                    <li><a href="{{route('contact')}}" class="text-gray-400 hover:text-green-500">Contact</a></li>
                 </ul>
             </div>
 
@@ -36,15 +36,15 @@
             <div>
                 <h3 class="text-xl font-semibold mb-4">Contact</h3>
                 <ul class="space-y-2 text-gray-400">
-                    <li>Email: info@netcraft.com</li>
-                    <li>Phone: +880 1234 567 890</li>
-                    <li>Address: Dhaka, Bangladesh</li>
+                    <li>Email: info@softnovait.com</li>
+                    <li>Phone: +880 707 568 468</li>
+                    <li>Address: House:32(3rd floor), Garib-E-Newaj Avenue road ,Sector:11,Uttara,Dhaka-1230, Bangladesh</li>
                 </ul>
                 <div class="flex space-x-4 mt-4">
-                    <a href="#" class="hover:text-green-500">Facebook</a>
-                    <a href="#" class="hover:text-green-500">Twitter</a>
-                    <a href="#" class="hover:text-green-500">LinkedIn</a>
-                    <a href="#" class="hover:text-green-500">Instagram</a>
+                    <a href="https://www.facebook.com/SoftNovaIT/" class="hover:text-green-500">Facebook</a>
+                    <a href="https://x.com/SoftNovaIT" class="hover:text-green-500">Twitter</a>
+                    <a href="https://www.linkedin.com/in/softnovait/" class="hover:text-green-500">LinkedIn</a>
+                    <a href="https://www.instagram.com/softnovait/" class="hover:text-green-500">Instagram</a>
                 </div>
             </div>
 
@@ -56,7 +56,7 @@
             <hr class="my-8 border-gray-700">
 
             <p class="text-center text-white pb-6">
-                &copy; {{ date('Y') }} Netcraft. All rights reserved.
+                &copy; {{ date('Y') }} SoftNovaIT. All rights reserved.
             </p>
 
         </div>

@@ -5,6 +5,7 @@
     <!-- Logo -->
     <div class="text-2xl font-bold">
       <a href="{{ url('/') }}" class="text-white hover:text-green-500 transition-colors">
+        {{-- <span class="text-green-500"><img src="images/softnovait_logo_02.png" width="20%" alt=""></span> --}}
         SoftNovaIT
       </a>
     </div>
@@ -17,14 +18,14 @@
         <li class="relative group">
           <a href="{{ url('/') }}" class="font-semibold text-white hover:text-green-500 px-4 py-2 transition-colors flex items-center">
             Home
-            <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            {{-- <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
-            </svg>
+            </svg> --}}
           </a>
-          <ul class="absolute left-0 mt-2 w-48 bg-white text-gray-700 rounded-md shadow-lg py-2 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 z-50 border border-gray-100">
+          {{-- <ul class="absolute left-0 mt-2 w-48 bg-white text-gray-700 rounded-md shadow-lg py-2 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 z-50 border border-gray-100">
             <li><a href="{{ url('/') }}" class="block px-4 py-2 hover:bg-green-50 hover:text-green-500 transition-colors">Home 1</a></li>
-            <li><a href="{{ url('/') }}" class="block px-4 py-2 hover:bg-green-50 hover:text-green-500 transition-colors">Home 2</a></li>
-          </ul>
+            <li><a href="{{ route('home2') }}" class="block px-4 py-2 hover:bg-green-50 hover:text-green-500 transition-colors">Home 2</a></li>
+          </ul> --}}
         </li>
 
         <!-- Pages -->
@@ -36,19 +37,19 @@
             </svg>
           </a>
           <ul class="absolute left-0 mt-2 w-48 bg-white text-gray-700 rounded-md shadow-lg py-2 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 z-50 border border-gray-100">
-            <li><a href="#" class="block px-4 py-2 hover:bg-green-50 hover:text-green-500 transition-colors">About Us</a></li>
-            <li><a href="#" class="block px-4 py-2 hover:bg-green-50 hover:text-green-500 transition-colors">Pricing</a></li>
-            <li><a href="#" class="block px-4 py-2 hover:bg-green-50 hover:text-green-500 transition-colors">Careers</a></li>
-            <li><a href="#" class="block px-4 py-2 hover:bg-green-50 hover:text-green-500 transition-colors">Our History</a></li>
-            <li><a href="#" class="block px-4 py-2 hover:bg-green-50 hover:text-green-500 transition-colors">Mission Vision</a></li>
-            <li><a href="#" class="block px-4 py-2 hover:bg-green-50 hover:text-green-500 transition-colors">FAQ</a></li>
-            <li><a href="#" class="block px-4 py-2 hover:bg-green-50 hover:text-green-500 transition-colors">Team</a></li>
-            <li><a href="#" class="block px-4 py-2 hover:bg-green-50 hover:text-green-500 transition-colors">Team Single</a></li>
-            <li><a href="#" class="block px-4 py-2 hover:bg-green-50 hover:text-green-500 transition-colors">Typography</a></li>
-            <li><a href="#" class="block px-4 py-2 hover:bg-green-50 hover:text-green-500 transition-colors">Page Left Sidebar</a></li>
-            <li><a href="#" class="block px-4 py-2 hover:bg-green-50 hover:text-green-500 transition-colors">Page Right Sidebar</a></li>
-            <li><a href="#" class="block px-4 py-2 hover:bg-green-50 hover:text-green-500 transition-colors">404 Page</a></li>
-            <li><a href="#" class="block px-4 py-2 hover:bg-green-50 hover:text-green-500 transition-colors">Coming Soon</a></li>
+            <li><a href="{{route('about_us')}}" class="block px-4 py-2 hover:bg-green-50 hover:text-green-500 transition-colors">About Us</a></li>
+            <li><a href="{{route('pricing')}}" class="block px-4 py-2 hover:bg-green-50 hover:text-green-500 transition-colors">Pricing</a></li>
+            <li><a href="{{route('careers')}}" class="block px-4 py-2 hover:bg-green-50 hover:text-green-500 transition-colors">Careers</a></li>
+            <li><a href="{{route('ourHistory')}}" class="block px-4 py-2 hover:bg-green-50 hover:text-green-500 transition-colors">Our History</a></li>
+            <li><a href="{{route('missionVisson')}}" class="block px-4 py-2 hover:bg-green-50 hover:text-green-500 transition-colors">Mission Vision</a></li>
+            <li><a href="{{route('faq')}}" class="block px-4 py-2 hover:bg-green-50 hover:text-green-500 transition-colors">FAQ</a></li>
+            <li><a href="{{route('team')}}" class="block px-4 py-2 hover:bg-green-50 hover:text-green-500 transition-colors">Team</a></li>
+            {{-- <li><a href="{{route('teamSingle')}}" class="block px-4 py-2 hover:bg-green-50 hover:text-green-500 transition-colors">Team Single</a></li>
+            <li><a href="{{route('typography')}}" class="block px-4 py-2 hover:bg-green-50 hover:text-green-500 transition-colors">Typography</a></li>
+            <li><a href="{{route('')}}" class="block px-4 py-2 hover:bg-green-50 hover:text-green-500 transition-colors">Page Left Sidebar</a></li>
+            <li><a href="{{route('')}}" class="block px-4 py-2 hover:bg-green-50 hover:text-green-500 transition-colors">Page Right Sidebar</a></li>
+            <li><a href="{{route('')}}" class="block px-4 py-2 hover:bg-green-50 hover:text-green-500 transition-colors">404 Page</a></li> --}}
+            <li><a href="{{route('comingSoon')}}" class="block px-4 py-2 hover:bg-green-50 hover:text-green-500 transition-colors">Coming Soon</a></li>
           </ul>
         </li>
 
@@ -62,43 +63,43 @@
           </a>
           <ul class="absolute left-0 mt-2 w-48 bg-white text-gray-700 rounded-md shadow-lg py-2 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 z-50 border border-gray-100">
             <li><a href="{{ route('web_service') }}" class="block px-4 py-2 hover:bg-green-50 hover:text-green-500 transition-colors">Web Services</a></li>
-            <li><a href="#" class="block px-4 py-2 hover:bg-green-50 hover:text-green-500 transition-colors">Software Services</a></li>
-            <li><a href="#" class="block px-4 py-2 hover:bg-green-50 hover:text-green-500 transition-colors">SEO Optimization</a></li>
-            <li><a href="#" class="block px-4 py-2 hover:bg-green-50 hover:text-green-500 transition-colors">Digital Marketing</a></li>
+            <li><a href="{{ route('software_service') }}" class="block px-4 py-2 hover:bg-green-50 hover:text-green-500 transition-colors">Software Services</a></li>
+            <li><a href="{{ route('seo_optimization') }}" class="block px-4 py-2 hover:bg-green-50 hover:text-green-500 transition-colors">SEO Optimization</a></li>
+            <li><a href="{{ route('digital_marketing') }}" class="block px-4 py-2 hover:bg-green-50 hover:text-green-500 transition-colors">Digital Marketing</a></li>
           </ul>
         </li>
 
         <!-- Blog -->
         <li class="relative group">
-          <a href="#" class="font-semibold text-white hover:text-green-500 px-4 py-2 transition-colors flex items-center">
+          <a href="{{route('blog')}}" class="font-semibold text-white hover:text-green-500 px-4 py-2 transition-colors flex items-center">
             Blog
             <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
             </svg>
           </a>
           <ul class="absolute left-0 mt-2 w-48 bg-white text-gray-700 rounded-md shadow-lg py-2 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 z-50 border border-gray-100">
-            <li><a href="#" class="block px-4 py-2 hover:bg-green-50 hover:text-green-500 transition-colors">Latest Posts</a></li>
-            <li><a href="#" class="block px-4 py-2 hover:bg-green-50 hover:text-green-500 transition-colors">Single Post</a></li>
+            <li><a href="{{route('latest_posts')}}" class="block px-4 py-2 hover:bg-green-50 hover:text-green-500 transition-colors">Latest Posts</a></li>
+            <li><a href="{{route('single_posts')}}" class="block px-4 py-2 hover:bg-green-50 hover:text-green-500 transition-colors">Single Post</a></li>
           </ul>
         </li>
 
         <!-- Shop -->
         <li class="relative group">
-          <a href="#" class="font-semibold text-white hover:text-green-500 px-4 py-2 transition-colors flex items-center">
+          <a href="{{route('shop')}}" class="font-semibold text-white hover:text-green-500 px-4 py-2 transition-colors flex items-center">
             Shop
             <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
             </svg>
           </a>
           <ul class="absolute left-0 mt-2 w-48 bg-white text-gray-700 rounded-md shadow-lg py-2 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 z-50 border border-gray-100">
-            <li><a href="#" class="block px-4 py-2 hover:bg-green-50 hover:text-green-500 transition-colors">Products</a></li>
-            <li><a href="#" class="block px-4 py-2 hover:bg-green-50 hover:text-green-500 transition-colors">Cart</a></li>
+            <li><a href="{{route('products')}}" class="block px-4 py-2 hover:bg-green-50 hover:text-green-500 transition-colors">Products</a></li>
+            <li><a href="{{route('cart')}}" class="block px-4 py-2 hover:bg-green-50 hover:text-green-500 transition-colors">Cart</a></li>
           </ul>
         </li>
 
         <!-- Contact (no submenu) -->
         <li>
-          <a href="#" class="font-semibold text-white hover:text-green-500 px-4 py-2 transition-colors block">
+          <a href="{{route('contact')}}" class="font-semibold text-white hover:text-green-500 px-4 py-2 transition-colors block">
             Contact
           </a>
         </li>
@@ -107,7 +108,7 @@
 
     <!-- CTA Button (Like NetCraft theme) -->
     <div class="hidden md:block">
-      <a href="#contact" class="bg-green-500 hover:bg-green-600 text-white font-semibold px-6 py-3 rounded-lg transition-colors shadow-md hover:shadow-lg">
+      <a href="{{route('contact')}}" class="bg-green-500 hover:bg-green-600 text-white font-semibold px-6 py-3 rounded-lg transition-colors shadow-md hover:shadow-lg">
         Get Started
       </a>
     </div>
