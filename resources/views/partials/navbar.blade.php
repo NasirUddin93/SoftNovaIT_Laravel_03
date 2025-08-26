@@ -61,7 +61,7 @@
             </svg>
           </a>
           <ul class="absolute left-0 mt-2 w-48 bg-white text-gray-700 rounded-md shadow-lg py-2 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 z-50 border border-gray-100">
-            <li><a href="#" class="block px-4 py-2 hover:bg-green-50 hover:text-green-500 transition-colors">Web Services</a></li>
+            <li><a href="{{ route('web_service') }}" class="block px-4 py-2 hover:bg-green-50 hover:text-green-500 transition-colors">Web Services</a></li>
             <li><a href="#" class="block px-4 py-2 hover:bg-green-50 hover:text-green-500 transition-colors">Software Services</a></li>
             <li><a href="#" class="block px-4 py-2 hover:bg-green-50 hover:text-green-500 transition-colors">SEO Optimization</a></li>
             <li><a href="#" class="block px-4 py-2 hover:bg-green-50 hover:text-green-500 transition-colors">Digital Marketing</a></li>

@@ -22,4 +22,4 @@ Route::get('/contact', function () {
 Route::get('/services', function () {
     return view('frontend.services');
 });
-
+Route::view('/web_service', 'frontend.webservice')->name('web_service');
