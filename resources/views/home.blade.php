@@ -744,7 +744,7 @@
                         </div>
                     </div>
                     <div class="member-info">
-                        <h3>Md Azizul Islam</h3>
+                        <h3>Azizul Hakim</h3>
                         <span class="position">Database Administrator</span>
                         <p>Responsible for managing, securing, and optimizing databases, ensuring data integrity, high availability, and efficient performance to support organizational and client operations.</p>
                         <span class="contact-info">mdazizul@softnovait.com</span>

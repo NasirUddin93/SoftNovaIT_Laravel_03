@@ -66,6 +66,7 @@
             <li><a href="{{ route('software_service') }}" class="block px-4 py-2 hover:bg-green-50 hover:text-green-500 transition-colors">Software Services</a></li>
             <li><a href="{{ route('seo_optimization') }}" class="block px-4 py-2 hover:bg-green-50 hover:text-green-500 transition-colors">SEO Optimization</a></li>
             <li><a href="{{ route('digital_marketing') }}" class="block px-4 py-2 hover:bg-green-50 hover:text-green-500 transition-colors">Digital Marketing</a></li>
+            <li><a href="{{ route('courses') }}" class="block px-4 py-2 hover:bg-green-50 hover:text-green-500 transition-colors">Courses</a></li>
           </ul>
         </li>
 

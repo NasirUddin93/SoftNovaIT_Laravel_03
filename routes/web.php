@@ -46,6 +46,7 @@ Route::view('/shop', 'frontend.shop')->name('shop');
 Route::view('/cart', 'frontend.cart')->name('cart');
 Route::view('/contact', 'frontend.contact')->name('contact');
 Route::view('/products', 'frontend.products')->name('products');
+Route::view('/courses', 'frontend.courses')->name('courses');
 Route::get('/blog', [BlogController::class, 'index'])->name('blog.index');
 
 // Route::view('/home2', 'home2')->name('home2');

@@ -63,7 +63,7 @@
       <div class="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-2xl transition">
         <img src="images/team_members/team_member_4.png" alt="Team Member" class="w-full h-64 object-cover">
         <div class="p-6 text-center">
-          <h3 class="text-xl font-semibold mb-1">Md Azizul Islam</h3>
+          <h3 class="text-xl font-semibold mb-1">Azizul Hakim</h3>
           <p class="text-gray-500 mb-3">Database Administrator</p>
           <div class="flex justify-center space-x-4">
             <a href="#" class="text-gray-400 hover:text-green-500"><i class="fab fa-facebook-f"></i></a>
