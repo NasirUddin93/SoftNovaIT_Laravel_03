@@ -20,7 +20,7 @@
       <div class="space-y-8">
         <div>
           <h2 class="text-2xl font-semibold mb-4">Contact Information</h2>
-          <p class="text-gray-600 mb-2"><strong>Address:</strong> 123 SoftNovaIT Street, Dhaka, Bangladesh</p>
+          <p class="text-gray-600 mb-2"><strong>Address:</strong> House:32(3rd floor), Garib-E-Newaj Avenue road, Sector:11, Uttara,Dhaka-1230. Bangladesh</p>
           <p class="text-gray-600 mb-2"><strong>Phone:</strong> +8801707568468</p>
           <p class="text-gray-600 mb-2"><strong>Email:</strong> nasir93cse@gmail.com</p>
         </div>

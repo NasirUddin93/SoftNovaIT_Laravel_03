@@ -38,7 +38,7 @@
                 <ul class="space-y-2 text-gray-400">
                     <li>Email: info@softnovait.com</li>
                     <li>Phone: +880 707 568 468</li>
-                    <li>Address: House:32(3rd floor), Garib-E-Newaj Avenue road ,Sector:11,Uttara,Dhaka-1230, Bangladesh</li>
+                    <li>Address: House:32(3rd floor), Garib-E-Newaj Avenue road, Sector:11, Uttara, Dhaka-1230, Bangladesh</li>
                 </ul>
                 <div class="flex space-x-4 mt-4">
                     <a href="https://www.facebook.com/SoftNovaIT/" class="hover:text-green-500">Facebook</a>
